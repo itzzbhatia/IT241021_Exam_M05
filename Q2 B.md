@@ -1,11 +1,18 @@
 firstly click right on start menu and choose settings,and select account from the menu on the left , and scroll down to the account setting area.
+
 there are kind of options are availbaile from the account setting
 your info
+
 sign-in option
+
 email & accounts
+
 family
+
 mindows backups
+
 other users
+
 access work or school
 
 I noticed in Win11 that Notepad no longer prompts you to save changes on exit. 
