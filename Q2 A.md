@@ -3,3 +3,4 @@ If that option is set to "Open content to the previous session", autosave is act
 If you still want to be asked to save changes, set it to "Open a new window".
 
 https://support.microsoft.com/en-us/windows
+
