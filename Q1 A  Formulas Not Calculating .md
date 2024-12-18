@@ -1,3 +1,5 @@
+Excel displays this formula in the cell, instead of the result. I know it's trying to tell me there is a problem, but I can't figure out what the problem might be.
+
 Make sure that there is no space before the = sign.
 
 Make sure that the cell is not formatted as Text. If it is, set the number format to General, then press F2 and press Enter without changing anything.
